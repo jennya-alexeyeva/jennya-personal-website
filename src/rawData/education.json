@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Northeastern University",
+    "image": "images/experience images/neu.png",
+    "description": "test",
+    "date": "September 2019 - present, expected May 2023"
+  },
+  {
+    "title": "Gulf High School",
+    "image": "images/experience images/ghs.png",
+    "description": "test",
+    "date": "August 2015 - June 2019"
+  }
+]

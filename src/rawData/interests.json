@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cross-stitching",
+    "description": "I got into cross-stitching just before the pandemic, when I decided that I needed a better hobby than playing video games all day. Being able to create something tangible kept me sane during quarantine, and even now, I love unwinding after a long day by putting on a Netflix show and cross-stitching while watching it.",
+    "alt": "A yin-yang cross-stitch design, where one half is a mountainous sunny landscape, and the other half is an ocean.",
+    "image": "images/hobbies images/crossstitch.jpg"
+  },
+  {
+    "title": "Baking",
+    "description": "My love for baking started in high school, when I would bake to ward off stress before exam season. I have a sweet tooth, so it was great to be able to make something delicious to eat when I was stressed out. The image depicts a Russian dessert that I like; the name can be translated as 'the count's ruins.'",
+    "alt": "A dessert where meringues are arranged in a brownish gooey substance.",
+    "image": "images/hobbies images/baking.jpg"
+  },
+  {
+    "title": "Video games",
+    "description": "Ever since I was a little kid, poring over the <em>Professor Layton</em> games on my DSi, I've harbored a love for video games. I'm not the best at any games that require a quick reaction time, so I prefer story-based and strategy games. Some of my favorites are the <em>Ace Attorney</em> games, especially the <em>Great Ace Attorney Chronicles</em> spin-offs, and <em>Deltarune</em>; the image depicts a pumpkin that I painted as the character Ralsei.",
+    "alt": "Ralsei from Deltarune painted on a plastic pumpkin.",
+    "image": "images/hobbies images/gaming.jpg"
+  },
+  {
+    "title": "Spanish",
+    "description": "¡Bienvenidos a mi sitio web! I started learning Spanish in middle school and took it throughout high school as part of my IB coursework. Although I haven't been able to take many Spanish courses in high school, I remain fascinated by Spanish and Latine culture, especially coming from Florida, which has both of these cultures prevalent in its history. Side note: the image is of the Alcázar of Seville, from when I visited Spain with my family in 10th grade. As an avid - and former - <em>Game of Thrones</em> fan, being able to visit a filming location of one of my favorite shows was a fantastic experience!",
+    "alt": "The Alcázar of Seville.",
+    "image": "images/hobbies images/spain.jpg"
+  },
+  {
+    "title": "Russian",
+    "description": "Добро пожаловать на мой веб-сайт! As you can probably tell by my last name, my parents were born in Russia. Although they emigrated to the US three years before I was born, they raised me to learn the Russian language and culture, so I proudly identify as Russian-American. My brother and I used to go to Russia every summer to visit family and friends, and I feel proud to be able to identify with such a beautiful country. The image is of the Hermitage museum in St. Petersburg, one of my favorite cities in the world.",
+    "alt": "The Hermitage in St. Petersburg, Russia.",
+    "image": "images/hobbies images/russia.JPG"
+  }
+]
